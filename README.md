@@ -5,7 +5,7 @@
 > Feel free to delete this text.
 
 
-# Title of your Project
+# Read me Update
 *Describe the purpose of this project* 
 
 ## Motivation
